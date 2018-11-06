@@ -1,0 +1,4 @@
+
+mysql.pid
+mysql_error.log
+*.log
