@@ -2,3 +2,6 @@
 mysql.pid
 mysql_error.log
 *.log
+*.log
+ibdata1
+ib_logfile0
